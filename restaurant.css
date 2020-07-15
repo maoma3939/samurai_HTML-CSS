@@ -1,0 +1,144 @@
+@charset "utf-8";
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FFF;
+}
+
+/* -------------------- wrapper -------------------- */
+#wrapper {
+	background-color: #CCC;	
+	
+}
+
+/* -------------------- header -------------------- */
+#header {
+    text-align: center;
+}
+
+#header h1 {
+    margin:  10px 10px 10px;
+}
+
+/* -------------------- main1 -------------------- */
+#main1 {
+  margin: 30px;
+  padding: 0 0 5px 0;
+  border: 3px solid red;
+  background-color: #FFF;
+}
+
+#main1 h2 {
+    margin: auto;
+    padding: 20px 30px 0 30px;
+}
+
+#main1 ul {
+    margin: auto;
+    padding: 0 0 0 65px;
+}
+
+#main1 li {
+    margin: 10px 5px 10px 5px;
+    list-style-type: square;
+}
+
+/*.marker1 {*/
+/*      color: red;*/
+/*      background-color: #ff006a5c;*/
+/*      padding: 0.1em;*/
+/*      padding-right: 335px;*/
+/*      margin-left: 0;*/
+/*      margin-right: 0.3em;*/
+/*      }*/
+      
+/*.marker2 {*/
+/*      background-color: #ff006a5c;*/
+/*      padding: 0.1em;*/
+/*      padding-right: 335px;*/
+/*      margin-left: 0;*/
+/*      margin-right: 0.3em;*/
+/*      }*/
+      
+/*.marker3 {*/
+/*      color: red;*/
+/*      padding: 0.1em;*/
+/*      padding-right: 335px;*/
+/*      margin-left: 0;*/
+/*      margin-right: 0.3em;*/
+/*      }*/
+      
+.font-red {
+    color: red;
+}
+
+.background-pink {
+    background-color: #ff006a5c;
+}
+
+#main1 li {
+    width: 97px;
+    padding: 0.1em;
+    padding-right: 335px;
+    margin-left: 0;
+    margin-right: 0.3em;
+}
+
+
+#main1-1 {
+    margin: 20px 30px 20px 30px;
+    padding: 1px 5px 5px 5px;
+}
+
+#main1-1 p {
+    margin: auto;
+    padding: 6px 0 3px 6px;
+    background-color: #c7c5c561;
+}
+
+/* -------------------- main2 -------------------- */
+#main2 {
+  margin: 30px;
+  padding: 0 0 5px 0;
+  border: 3px solid blue;
+  background-color: #FFF;
+}
+
+#main2 h2 {
+    margin: auto;
+    padding: 20px 30px 5px 30px;
+    font-family: Fantasy;
+}
+
+.yellow {
+    color: yellow;
+}
+
+#main2 h3 {
+    margin: 0 40px 0 30px;
+    padding: 3px 10px 3px 10px;
+    color: black;
+    font-size: 16px;
+    border-left: solid 10px blue;
+    border-bottom: dotted 1px blue;
+}
+
+#main2 p {
+    margin: 0 0 7px 45px;
+    padding: 0 0 3px 10px;
+}
+
+#main2-1 {
+    margin: 0 30px 20px 30px;
+    padding: 1px 5px 5px 5px;
+}
+
+#main2-1 p {
+    margin: 0 0 0 0;
+    padding: 5px 5px 5px 10px;
+    background-color: #c7c5c561;
+}
+
+
+
